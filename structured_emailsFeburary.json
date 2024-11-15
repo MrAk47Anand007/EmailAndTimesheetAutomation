@@ -1,0 +1,385 @@
+[
+    {
+        "subject": "Status Update | 29/02/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "29-02-24",
+                "tasks": [
+                    {
+                        "task_name": "RPA Challenge",
+                        "description": "Done with RPA Challenge used mails actions, logs actions, excel actions.",
+                        "time_spent": 1.3
+                    },
+                    {
+                        "task_name": "Session on Automation Anywhere",
+                        "description": "Discussion on logging files, naming conventions, review on previous bots and improvements.",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "Team Building Activities and Celebrations",
+                        "description": "N/A",
+                        "time_spent": 2.0
+                    },
+                    {
+                        "task_name": "Assignments",
+                        "description": "Completed with RPA Challenge Assignment and NSE Extractor in progress(50%).",
+                        "time_spent": 2.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 28/02/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "28-02-24",
+                "tasks": [
+                    {
+                        "task_name": "Research and Documentation",
+                        "description": "Research on automation anywhere documentation and bot stores try to import pdfConverter bot to ongoing project",
+                        "time_spent": 1.3
+                    },
+                    {
+                        "task_name": "Session on Automation 360",
+                        "description": "Today we Discussed about how to import export bots in enterprise edition and also go through email actions and perform email connections, send email using bot, created email server on google cloud.",
+                        "time_spent": 3.3
+                    },
+                    {
+                        "task_name": "Assignments",
+                        "description": "Exploring Action Packages of List, Dictionary, Boolean, CSV/TXT, Email are done. Completed with bot running inside bot task to send email each time when bot runs and stoped.",
+                        "time_spent": 3.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 27/02/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "27-02-24",
+                "tasks": [
+                    {
+                        "task_name": "Problem Solving Task",
+                        "description": "Solving NSE data extractor problem. (pending)",
+                        "time_spent": 1.3
+                    },
+                    {
+                        "task_name": "Session on Automation 360 tool",
+                        "description": "Detailed discussion on Automation 360 community and enterprise edition tool see all packages in detailed",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "Assignments and Research",
+                        "description": "Reserch on various available action in automation 360 and created 3 bots for string operations, number operations, file operations andfolder actions operations bot  (pending).",
+                        "time_spent": 3.3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 26/02/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "26-02-24",
+                "tasks": [
+                    {
+                        "task_name": "Review on Lagan problem",
+                        "description": "Detailed working and review on validations and discussion on improvements.",
+                        "time_spent": 2.0
+                    },
+                    {
+                        "task_name": "Session on Automation 360",
+                        "description": "Discussion on automation 360 tool and all basic terminlogies like bot runner,bot creator, workspaces, etc",
+                        "time_spent": 3.3
+                    },
+                    {
+                        "task_name": "Problem Solving Task",
+                        "description": "NSE Data Extraction Bot, here we need to take data from nse website and put into excel file according to thier stocks names.",
+                        "time_spent": 3.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 23/02/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "23-02-24",
+                "tasks": [
+                    {
+                        "task_name": "General Meeting",
+                        "description": "Session on automation, development ethics and best practices",
+                        "time_spent": 1.3
+                    },
+                    {
+                        "task_name": "Team building activity",
+                        "description": "Played a Mafia game",
+                        "time_spent": 2.0
+                    },
+                    {
+                        "task_name": "Lagan Question",
+                        "description": "Questions on cricket scorecard management system",
+                        "time_spent": 2.0
+                    },
+                    {
+                        "task_name": "Sholay Question",
+                        "description": "Questions is modified for 5 people and added more parameters",
+                        "time_spent": 1.0
+                    },
+                    {
+                        "task_name": "CodeChef Problem",
+                        "description": "Solved 4 medium level questions",
+                        "time_spent": 1.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 22/02/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "22-02-24",
+                "tasks": [
+                    {
+                        "task_name": "CodeChef Problem Solving",
+                        "description": "MIN To MAX",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "Running Comparison",
+                        "description": "Running Comparison Practice Problem in Arrays - CodeChef",
+                        "time_spent": 899.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Re: Status Update | 21/02/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Re: Status Update | 21/02/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "21-02-24",
+                "tasks": [
+                    {
+                        "task_name": "CodeChef Problem Solving",
+                        "description": "Solved 12 problems:8 easy problem and 4 medium level problem",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "",
+                        "description": "",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "2.Second Max of Three Numbers Practice Problem in Basic Math - CodeChef",
+                        "description": "358",
+                        "time_spent": 5.0
+                    },
+                    {
+                        "task_name": "3.Chef and Chocolates Practice Problem in Basic Math - CodeChef",
+                        "description": "405",
+                        "time_spent": 6.0
+                    },
+                    {
+                        "task_name": "4.Find Remainder Practice Problem in Basic Math - CodeChef",
+                        "description": "421",
+                        "time_spent": 4.0
+                    },
+                    {
+                        "task_name": "5.Candy Store Practice Problem in Basic Math - CodeChef",
+                        "description": "429",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "6.Scalene Triangle Practice Problem in Basic Math - CodeChef",
+                        "description": "430",
+                        "time_spent": 6.0
+                    },
+                    {
+                        "task_name": "7.Sum of Digits Practice Problem in Basic Math - CodeChef",
+                        "description": "455",
+                        "time_spent": 6.0
+                    },
+                    {
+                        "task_name": "8.Favourite Numbers Practice Problem in Basic Math - CodeChef",
+                        "description": "477",
+                        "time_spent": 5.0
+                    },
+                    {
+                        "task_name": "9.Search an element in an array Practice Problem in Arrays - CodeChef",
+                        "description": "600",
+                        "time_spent": 6.0
+                    },
+                    {
+                        "task_name": "10.Find maximum in an Array Practice Problem in Arrays - CodeChef",
+                        "description": "650",
+                        "time_spent": 6.0
+                    },
+                    {
+                        "task_name": "11.Take discount or Not Practice Problem in Arrays - CodeChef",
+                        "description": "700",
+                        "time_spent": 7.0
+                    },
+                    {
+                        "task_name": "12.Cost of Groceries Practice Problem in Arrays - CodeChef",
+                        "description": "799",
+                        "time_spent": 10.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 21/02/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "21-02-24",
+                "tasks": [
+                    {
+                        "task_name": "Schema Review",
+                        "description": "Discussion on learning and development schema design and api methods",
+                        "time_spent": 4.0
+                    },
+                    {
+                        "task_name": "Problem Solving",
+                        "description": "Solved the Sholay problem (TSP)",
+                        "time_spent": 1.0
+                    },
+                    {
+                        "task_name": "CodeChef Problem Solving",
+                        "description": "Solved 12 problems:8 easy problem and 5 medium level problem",
+                        "time_spent": 3.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 12/02/2024 -16/02/2024| XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "12/02/24",
+                "tasks": [
+                    {
+                        "task_name": "Discussion on Python Concepts",
+                        "description": "Discussed about generators, decoraters, magic method, regex and threading",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "Assignment on discussed topics",
+                        "description": "Assignment on discuss topics like generators, decorators, magic methods, regex and threading",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "Documentation on discussed topics",
+                        "description": "Documentation on discuss topics like generators, decorators, magic methods, regex and threading",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "13/02/24",
+                        "description": "Session on Database schema",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "Assignment",
+                        "description": "Assignment on database questions",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "Documentation",
+                        "description": "Documentation on database.",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "14/02/24",
+                        "description": "Session on API and dicussion on API",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "Problem Solving",
+                        "description": "Solved cricket question and discussion on question.",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "Assignment",
+                        "description": "Solved questions of apis and read pythons concepts",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "15/02/24",
+                        "description": "Session on Database connectivity with mysql",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "Problem Solving",
+                        "description": "Solved event management system question",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "Assignment",
+                        "description": "Solved remaining questions and discussion of questions",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "16/02/24",
+                        "description": "Session on version control system.",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "Documentationand research",
+                        "description": "Completed documentation of databases.",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "Understanding VCS",
+                        "description": "Read and understand the version control system through documents.",
+                        "time_spent": 0.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 20/02/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "20/02/24",
+                "tasks": [
+                    {
+                        "task_name": "DB Schema Review",
+                        "description": "Detailed review of database schema done",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "Problem Solving Questions",
+                        "description": "Solved 2 questions.",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "Group Discussion",
+                        "description": "Discussion on various topics.",
+                        "time_spent": 0.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 19/02/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "E: anand.kale@xalta.tech",
+                "tasks": []
+            }
+        ]
+    }
+]

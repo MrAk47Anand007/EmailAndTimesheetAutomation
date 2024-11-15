@@ -1,0 +1,317 @@
+[
+    {
+        "subject": "Status Update | 28/03/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "28-03-24",
+                "tasks": [
+                    {
+                        "task_name": "ACME Work Item 3",
+                        "description": "Completed with all best practices",
+                        "time_spent": 2.0
+                    },
+                    {
+                        "task_name": "System Audio to Text",
+                        "description": "Completed with online and offline implementation",
+                        "time_spent": 1.0
+                    },
+                    {
+                        "task_name": "Mulesoft Training",
+                        "description": "Completed upto reviewing api module in training",
+                        "time_spent": 5.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 18/03/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "18-03-2024",
+                "tasks": [
+                    {
+                        "task_name": "Documentation",
+                        "description": "Created Documentation on speech to text task and explored all open source libraries use to get text from audio.",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "Implementation of system audio to text task",
+                        "description": "Completed implementation upto 80% just remaining with model training phase and some minor bugs fixes (used facebook model for transcribing)",
+                        "time_spent": 5.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 15/03/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "15-03-24",
+                "tasks": [
+                    {
+                        "task_name": "ACME TASK 1",
+                        "description": "Task Completed with best practices,testing is done with 2-3 timeand Code review is done by Shubham Wadhavane",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 14/03/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "13-03-24",
+                "tasks": [
+                    {
+                        "task_name": "ASME Task 1",
+                        "description": "Work on Issues faced on window close and pagination problem and solved the window closed problem",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "14-03-24",
+                        "description": "ASME Task 1",
+                        "time_spent": 0.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 13/03/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "12-03-24",
+                "tasks": [
+                    {
+                        "task_name": "ACME Task",
+                        "description": "Work on ACME task and completed till extracting values i.e client id,Acc Number, Acc Amount",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "13-03-24",
+                        "description": "Flowchart Overview",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "ACME Task",
+                        "description": "Work on ACME Task in desktop application, and web portalWebsite Back Issue Faced.Desktop application window close issue Faced.Pagination Issue Faced.Explore actions of AISense and process capture recorder.",
+                        "time_spent": 7.5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 12/03/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "11-03-24",
+                "tasks": [
+                    {
+                        "task_name": "Lastpass TaskControl Room API's",
+                        "description": "Completed the Lastpass assignment with all best practices.Use and research on Control room api's also try 5 api call like get, post, delete.",
+                        "time_spent": 4.0
+                    },
+                    {
+                        "task_name": "12-03-24",
+                        "description": "Session on A60",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "Code Review",
+                        "description": "Code Review on Previous Assignments: LastPass, XML Actions, Config File Bot, and ItBricks Assignment: Improvements in 3 Assignments Regarding Code Structure and Specific Naming Conventions.",
+                        "time_spent": 1.0
+                    },
+                    {
+                        "task_name": "ACME Task",
+                        "description": "ACME task has begun, documentation and flowcharts have been completed, and implementation has begun; 30% of the work has been completed.",
+                        "time_spent": 5.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 11/03/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "09-03-24",
+                "tasks": [
+                    {
+                        "task_name": "Eagle TaskImprovements in previous assignments.",
+                        "description": "Completed Eagle problem.Added all validation and best practices in previous assignments",
+                        "time_spent": 5.0
+                    },
+                    {
+                        "task_name": "11-03-24",
+                        "description": "Session on A360 and Review.",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "Lastpass Task.",
+                        "description": "Completed Lastpass  assignment 80% remaining with only output excel creation.",
+                        "time_spent": 5.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 07/03/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "26-03-24",
+                "tasks": [
+                    {
+                        "task_name": "Lagan QuestionResearch on A360 Architecture.",
+                        "description": "Make changes and added validations in lagan question.Research on Automation anywhere architecture and subtopic likes bot runner, bot creator, Control Room.",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "27-03-24",
+                        "description": "NSE problemResearch and Documentation.",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "28-03-24",
+                        "description": "Exploring bot stores and external bots.Explore excel and csv actions.",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "29-03-24",
+                        "description": "NSE problem.Optimizing RPA Challenge.",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "01-03-24",
+                        "description": "RPA ChallengeNSE ExtractorNSE Extractor Extended",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "02-03-24",
+                        "description": "Research on API ActionsImplemented API ActionsJSON Actions",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "03-03-24",
+                        "description": "Research on SQL ConnectionXML Actions",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "04-03-24",
+                        "description": "NSE extended problem",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "05-03-24",
+                        "description": "XML ActionsNSE Extractor ExtendedRest API",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "06-03-24",
+                        "description": "SQL ConnectionExcel as DatabaseXML A360 Task Optimization.Google Sheets Actions",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "07-03-24",
+                        "description": "Config File SetupEagle Assignment TaskExcel as Database Task",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "Session on A360 and Review",
+                        "description": "Review of previous assignments and learn how to setup config file in excel and make bot as much as configurable",
+                        "time_spent": 3.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 06/03/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "06-03-24",
+                "tasks": [
+                    {
+                        "task_name": "Assignments",
+                        "description": "NSE Extractor Extended -Completed (90%)SQL Connection - CompletedPython Script - CompletedGoogle Drive - CompletedHoliday RPA Task - CompletedGoogle Sheet Task - pending",
+                        "time_spent": 5.0
+                    },
+                    {
+                        "task_name": "Session on Automation Anywhere",
+                        "description": "Detailed Review on previous Assignments and learn about google drive, google sheet, python script actions.",
+                        "time_spent": 3.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 05/03/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "05-03-24",
+                "tasks": [
+                    {
+                        "task_name": "Assignments",
+                        "description": "NSE Extractor Extended -Completed (90%)XML Actions - CompletedXML Assignment -CompletedSQL Connection - Completed (60%)",
+                        "time_spent": 4.3
+                    },
+                    {
+                        "task_name": "Session on Automation Anywhere",
+                        "description": "Review on previous assignments and give improvements and Learn about Rest API,JSON,XML Actions. Also learned advanced recorder properties.",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "General Meeting",
+                        "description": "Disscussion on Montly Payroll Working and learn about salary Deductions",
+                        "time_spent": 0.3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 04/03/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "04-03-24",
+                "tasks": [
+                    {
+                        "task_name": "Assignments",
+                        "description": "RPA Challenge -CompletedNSE Extractor - CompletedNSE Extractor Extended -Completed (60%)Rest API Actions - CompletedJSON Actions - CompletedXML Actions - Remaining",
+                        "time_spent": 5.3
+                    },
+                    {
+                        "task_name": "Session on Automation anywhere",
+                        "description": "Review on previous assignments and give improvements and Learn about Rest API,JSON,XML actions.",
+                        "time_spent": 3.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 01/03/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "01-02-24",
+                "tasks": [
+                    {
+                        "task_name": "Assignments",
+                        "description": "RPA Challenge -CompletedNSE Extractor - Completed (90%)NSE Extractor Extended -Pending",
+                        "time_spent": 5.0
+                    },
+                    {
+                        "task_name": "Session on Automation Anywhere",
+                        "description": "Review of previous assignments of RPA Challenge and improvements, Learn about windows actions, Data Table Action. Explaination of new NSE assignment.",
+                        "time_spent": 3.0
+                    }
+                ]
+            }
+        ]
+    }
+]

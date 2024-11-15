@@ -1,0 +1,307 @@
+[
+    {
+        "subject": "Status Update | 31/05/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "31-05-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Power Automate Tasks",
+                        "description": "Implemented a file automation flow with optimization added dictionary and develop parallel workflow for faster excecution of flow",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 30/05/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "30-05-2024",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Power Automate Cloud",
+                        "description": "Fixes Bugs in file automation flow and perform testing on large and budled pdfs merged invoices, perform spliting and creating folder accordinlgy and store splited pdf in that folder.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Fwd: Status Update | 29/05/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "29-05-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.25
+                    },
+                    {
+                        "task_name": "Power Automate Use Case",
+                        "description": "Completed use case also added split pdf based on text to split multiple invoices pdf from single pdf.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 29/05/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "29-05-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.25
+                    },
+                    {
+                        "task_name": "Power Automate Use Case",
+                        "description": "Completed use case also added split pdf based on text to split multiple invoices pdf from single pdf.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 28/05/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "28-05-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.25
+                    },
+                    {
+                        "task_name": "UTI Sample Use Case",
+                        "description": "Completed flow with split pdf using premium connecter also finds best connector available for pdf actions",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 24/05/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "24-05-2024",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Sample Use Case",
+                        "description": "Work on error handling part and learn about power automate expressions and implemented optimized flow where added parallel action functionality for faster execution",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 23/05/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "23-05-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Connect",
+                        "description": "Connect with lead, for discussion about sample use case and progress track,query resolving session.",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Sample use case",
+                        "description": "Implemented use case and added commenting, logging, error handling also added best practices in power automate.",
+                        "time_spent": 7.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 22/05/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "22-05-24",
+                "tasks": [
+                    {
+                        "task_name": "General Meetings",
+                        "description": "Meetings on Genrel topics and Quick Updates",
+                        "time_spent": 1.0
+                    },
+                    {
+                        "task_name": "Power Automate",
+                        "description": "Overviwed the power automate platform",
+                        "time_spent": 2.0
+                    },
+                    {
+                        "task_name": "UTI Sample Use Case",
+                        "description": "Completed to document extraction process and build own ai model and learn basics of power automate and also search which best practices are required in power automate",
+                        "time_spent": 5.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 15/05/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "15-05-24",
+                "tasks": [
+                    {
+                        "task_name": "Google Auth Package",
+                        "description": "Created custom package of google auth where we can get access token",
+                        "time_spent": 5.0
+                    },
+                    {
+                        "task_name": "Learning Instance in A360",
+                        "description": "Created learning instance with work item 3 invoice preprocessing",
+                        "time_spent": 2.0
+                    },
+                    {
+                        "task_name": "Documentation",
+                        "description": "Created a documentation of custom packages",
+                        "time_spent": 1.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 14/05/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "14-05-24",
+                "tasks": [
+                    {
+                        "task_name": "UiPath Course",
+                        "description": "Completed 2 modules",
+                        "time_spent": 2.0
+                    },
+                    {
+                        "task_name": "Log to file",
+                        "description": "Research on log to file action for adding line number",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "A360 Custom Package",
+                        "description": "Created sample log to file packge with modification remains with line number addition part.",
+                        "time_spent": 3.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 09/05/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "09-05-2024",
+                "tasks": [
+                    {
+                        "task_name": "Google Auth Api Consent Screen",
+                        "description": "Reaserched on how to build own packages in automation anywhere using A360 SDK for consent screen package",
+                        "time_spent": 5.0
+                    },
+                    {
+                        "task_name": "UiPath Documentation",
+                        "description": "Improved UiPath Documentation for certain module and some modules are remaining.",
+                        "time_spent": 1.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 03/06/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "06-05-24",
+                "tasks": [
+                    {
+                        "task_name": "Google Auth using Rest Api",
+                        "description": "Implemented google auth consent screen auth using rest api and completed till auth and drive access",
+                        "time_spent": 4.0
+                    },
+                    {
+                        "task_name": "LinkedIn Api Task",
+                        "description": "Reserch on LinkedIn Api and get overview of all api endpoints",
+                        "time_spent": 2.0
+                    },
+                    {
+                        "task_name": "UiPath Self-Learning",
+                        "description": "Learned about how to run java code in UiPath using external modules",
+                        "time_spent": 1.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 03/05/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "03-05-24",
+                "tasks": [
+                    {
+                        "task_name": "RE Framework use case without queue",
+                        "description": "Completed task and flowchart with best practices",
+                        "time_spent": 4.0
+                    },
+                    {
+                        "task_name": "Google Rest Api Task",
+                        "description": "Completed 60 % genrated access token and research on generation and exceution of api",
+                        "time_spent": 4.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 02/05/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "02-05-24",
+                "tasks": [
+                    {
+                        "task_name": "UiPath Training",
+                        "description": "Discuss about ReFramework using without queue and with Queue",
+                        "time_spent": 1.0
+                    },
+                    {
+                        "task_name": "Spotify Use Case",
+                        "description": "Completed with flowchart",
+                        "time_spent": 1.0
+                    }
+                ]
+            }
+        ]
+    }
+]

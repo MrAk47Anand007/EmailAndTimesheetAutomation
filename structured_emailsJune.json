@@ -1,0 +1,436 @@
+[
+    {
+        "subject": "Status Update | 28/06/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "28-06-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Quick Connect",
+                        "description": "Discussion on document recived from client side reagrding our process questions",
+                        "time_spent": 1.0
+                    },
+                    {
+                        "task_name": "A360 Copilot Task",
+                        "description": "Reviewed the nested form task given by Omkar yesterday. He assigned a new task, along with some findings and research on AARI process actions, and asked to make the process more dynamic. The task is 80% complete.",
+                        "time_spent": 7.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 27/06/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "27-06-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Bot Monitoring System",
+                        "description": "Work on wordpress website and implement user form with file input options.Work on power pages and developed website with basic form with file input optionsExplored Microsoft dataverse table for storage of website",
+                        "time_spent": 5.0
+                    },
+                    {
+                        "task_name": "A360 Copilot Task",
+                        "description": "Research on AARI framework and explored all form related actions.Working on Nested forms task in A360 Copilot.",
+                        "time_spent": 3.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 26/06/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "26-06-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "User Activity Tracker",
+                        "description": "Implementing Windows application for tracking all activity of user and generate report of daily usage in .net framework.",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "Bot Monitoring System",
+                        "description": "Research on wordpress and power pages to develop bot monitoring services dashboard website.",
+                        "time_spent": 5.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 25/06/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "25-06-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Research Task",
+                        "description": "Quick Connect and Research on usecase requirement",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "A360 Custom Package",
+                        "description": "Work LogToFile Package and research on other action and how to build custom package with best practices",
+                        "time_spent": 5.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 24/06/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "24-06-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Project Task",
+                        "description": "Research on Citrix receiver and service accounts, share connections in power automate.Research on what kind of access required from client.",
+                        "time_spent": 5.0
+                    },
+                    {
+                        "task_name": "UiPath Test Automation",
+                        "description": "Work on test automation process in uipath explored test automation framework. Implemented Uibank  sample test case.",
+                        "time_spent": 3.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 21/06/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "21-06-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "A360 Enterprise BotAgent Task",
+                        "description": "Research on How to connect bot agent to Http portal on chromium based browser",
+                        "time_spent": 5.0
+                    },
+                    {
+                        "task_name": "A360 Control Room server",
+                        "description": "Explore all features in server and find out how to add ssl certificate and redeploy the control room on https to fix issue.",
+                        "time_spent": 3.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 20/06/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "20-06-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI UseCse",
+                        "description": "Completed File automation sample flow. added all filters and conditions for emails.Testing: Perform testing on flow with different attachements.Flow completed 100%",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 19/06/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "19-06-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Project Task",
+                        "description": "Documentation:Created invoices pdf based on client information for testing.Implementation:Implemented power automate flow for client usecase based on invoices and create ai builder model for document pre-processing. completed flow 70%.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 18/06/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "18-06-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Quick Connect",
+                        "description": "Discussion on yesterday meeting and clear doubts on flow.",
+                        "time_spent": 0.5
+                    },
+                    {
+                        "task_name": "UTI Task",
+                        "description": "Implementing file automation use case: Implemented outlook part and setup network drive and created on premises gateway on own system.",
+                        "time_spent": 7.5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 17/06/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "17-06-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Power Automate Task",
+                        "description": "Revised Power automate all actions and flows with expression language syntax (Project Work).",
+                        "time_spent": 6.3
+                    },
+                    {
+                        "task_name": "UTI Kickoff Call",
+                        "description": "Discussion done on use case and access of all required platform and services",
+                        "time_spent": 1.3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 14/06/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "14-06-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UiPath Document Understanding",
+                        "description": "Completed Document Understanding task using DU framework with unttended mode.Bot works with automated classification and extraction process.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 13/06/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "13-06-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UiPath Document Understanding",
+                        "description": "Implemented document understanding bot using DU Framework with unattended method.Research on implementing DU bot without human intervation.Completed DU Framework Course",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 12/06/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "12-06-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UiPath Document Understanding",
+                        "description": "Completed Course of DU framework and implemented Document dispatcher using RE Framework, implemented invoice pre processing using DU framework attended mode. Implementing Unattended version of invoice pre-processing",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 11/06/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "11-06-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Power Automate Desktop Task",
+                        "description": "Completed ACME work item 3",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "UiPath Document Understanding",
+                        "description": "Explore DU framework, learn taxonomy, classifier, extractors, AI center, action center in UiPath",
+                        "time_spent": 5.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 10/06/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "10-06-2024",
+                "tasks": [
+                    {
+                        "task_name": "Stand Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Quick Connect",
+                        "description": "Daily progress discussion with lead",
+                        "time_spent": 0.3
+                    },
+                    {
+                        "task_name": "Power Automate Desktop",
+                        "description": "Implementing ACME Work Item 3 completed 80%",
+                        "time_spent": 7.5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 07/06/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "07-06-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Power Automate Desktop Task",
+                        "description": "Completed ACME Work Item 1 with Best Practices.",
+                        "time_spent": 7.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 06/06/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "06-06-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Power Automate Desktop Task",
+                        "description": "Completed ACME Work Item 1 remaining with best practices",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 05/06/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "05-06-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Power Automate Desktop",
+                        "description": "Implementing ACME Work Item 1 in PA Desktop completed 70%.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 04/06/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "04-06-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Power Automate Task",
+                        "description": "Implemented custom connectors and developed chatgpt and gemini connector",
+                        "time_spent": 5.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 03/06/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    }
+]

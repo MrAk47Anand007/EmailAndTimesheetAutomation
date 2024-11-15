@@ -1,0 +1,533 @@
+[
+    {
+        "subject": "Automatic reply: Status Update | 30/08/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Status Update | 30/08/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "30-08-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Document Extraction Tool",
+                        "description": "NodeJS Learning:Created simple server with http package also work with file system package (fs).",
+                        "time_spent": 4.0
+                    },
+                    {
+                        "task_name": "A360 RDP-Configurer Task",
+                        "description": "Created exe file with all functionlities like configure,deconfigure,generate report of registry settings.",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "Schedular Bot Task",
+                        "description": "Quick Connect with Sonu and discuss about future appraoch for developing web portal.",
+                        "time_spent": 1.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 29/08/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "29-08-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Document Extraction Tool",
+                        "description": "NodeJS:Look out into basic javascript,async-await, non-blocking I/O,Event Loop, CRUD Operation with MySQL",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 28/08/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "28-08-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Document Extraction Task",
+                        "description": "Research on ABBY FelxiCapture and ABBY Vantage document extraction products and compare with AWS Teseract",
+                        "time_spent": 6.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 26/08/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "26-08-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Project Task",
+                        "description": "Work on Adding new logic in PA Flow and perform testing on10+ Invoices.",
+                        "time_spent": 7.0
+                    },
+                    {
+                        "task_name": "UTI Client Call",
+                        "description": "Perform on call testing on 5+ Invoices.",
+                        "time_spent": 1.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 23/08/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "23-08-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "A360 VM Configure Task",
+                        "description": "Perform script testing on various machines.Results - Work's SucessfullyCreated exe application for A360 RDP Configurer",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "UTI Client Call",
+                        "description": "Perform on call testing for 15 invoices.",
+                        "time_spent": 1.0
+                    },
+                    {
+                        "task_name": "UTI Internal Testing",
+                        "description": "Perform testing of 5 invoices and some edge cases and fixed flow working according to invoices.",
+                        "time_spent": 4.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 22/08/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "22-08-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Internal Testing",
+                        "description": "Perform testing on 5 invoices given by client and resolved errors.",
+                        "time_spent": 5.0
+                    },
+                    {
+                        "task_name": "UTI SDD Task",
+                        "description": "In SDD added Microsoft graph Api call details and recreated flow diagram based on new changes.",
+                        "time_spent": 2.0
+                    },
+                    {
+                        "task_name": "UTI Client Call",
+                        "description": "Perform on call testing with 10 invocies.",
+                        "time_spent": 1.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 21/08/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "21-08-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Project Task",
+                        "description": "Perform integration testing of microsoft graph api actions and resolves all errors in PA flow",
+                        "time_spent": 7.0
+                    },
+                    {
+                        "task_name": "A360 VM Configure Task",
+                        "description": "Created final script for configuration  task also tested on own machine and created revert script to revert all settings to default.",
+                        "time_spent": 1.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Automatic reply: Status Update | 20/08/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Status Update | 20/08/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "20-08-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Project Task",
+                        "description": "Work on integration part in UTI main flow",
+                        "time_spent": 7.0
+                    },
+                    {
+                        "task_name": "UTI Client Call",
+                        "description": "Discussion on outlook and sharepoint access credentials for power automate flow",
+                        "time_spent": 1.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 19/08/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "19-08-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "A360 VM Configure Task",
+                        "description": "Created configuration script for local group policies and security group policies",
+                        "time_spent": 7.5
+                    },
+                    {
+                        "task_name": "UTI Client Call",
+                        "description": "Discussion on client secret and azure key vault.",
+                        "time_spent": 0.5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Automatic reply: Status Update | 16/08/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Status Update | 16/08/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "16-08-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Project Work",
+                        "description": "Integrated outlook grph api's flow with main UTI use case flow.",
+                        "time_spent": 4.0
+                    },
+                    {
+                        "task_name": "A360 VM Configure Task",
+                        "description": "Research on registry files in windows and learning powershell script to create script for automating VM Configure setup.",
+                        "time_spent": 4.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Automatic reply: Status Update | 14/08/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Status Update | 14/08/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "14-08-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "A360 Log To File Extension",
+                        "description": "Implemented copy paste bot action in extension with best practices and Created proper documentation for chrome extension.",
+                        "time_spent": 4.0
+                    },
+                    {
+                        "task_name": "A360 VM Setup Exe",
+                        "description": "Understanding process of setup and research how to build exe and automate the work.",
+                        "time_spent": 4.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 13/08/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "13-08-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Research Task",
+                        "description": "Research on azure key vault and microsoft dataverse table for saving client secret with secure manner.",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "A360 Log to File Extension",
+                        "description": "Implemented new copy paste bot from one control to another control room feature in the extension.",
+                        "time_spent": 5.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 12/08/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "12-08-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.5
+                    },
+                    {
+                        "task_name": "UTI Internal Meeting",
+                        "description": "Discussion on future goals and I provided KT to devleoper and handover the project.",
+                        "time_spent": 2.0
+                    },
+                    {
+                        "task_name": "UTI Usecase",
+                        "description": "Work on usecase optimization and bugs fixes and",
+                        "time_spent": 5.0
+                    },
+                    {
+                        "task_name": "UTI Research and Client Call",
+                        "description": "Discussion on Setting Up Credentials in Azure Key Vault for Power Automate",
+                        "time_spent": 1.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 09/08/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "09-08-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Research Task",
+                        "description": "Researched on azure application policy and powershell commands to setup security group with microsoft entra id.",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "UTI General Activity Meeting",
+                        "description": "Discussion on azure application policy setup.",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "UTI Research Documentation",
+                        "description": "Created Document for Restricting graph API applicationpermissions.",
+                        "time_spent": 2.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 08/08/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "08-08-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Microsoft Graph Api",
+                        "description": "Research on sharepoint api and permissions of app registration access for authorized user only.",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "UTI Project Task- Research Document",
+                        "description": "Created document of limiting application permissions in microsoft entra id.",
+                        "time_spent": 5.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 07/08/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "07-08-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Project Task",
+                        "description": "Research on graph api, refresh token, Azure application policy, azure app registration permissions.Implemented Basic Power automate flow with outlook api for getting emails.",
+                        "time_spent": 7.0
+                    },
+                    {
+                        "task_name": "UTI Client Call",
+                        "description": "Discussion on access of outlook mails using azure app registration",
+                        "time_spent": 1.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 06/08/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "06-08-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Usecase Meeting",
+                        "description": "Discussed on usecase and application user and graph api access.",
+                        "time_spent": 1.0
+                    },
+                    {
+                        "task_name": "UTI Project Work",
+                        "description": "Work on microsoft graph api for access token getting emails from entire organization.",
+                        "time_spent": 6.8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 05/08/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "05-08-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Stand-up Call",
+                        "description": "Discussion Regarding Progress of usecase flow and testing part.",
+                        "time_spent": 0.3
+                    },
+                    {
+                        "task_name": "UTI Client Call",
+                        "description": "Discussion on application user and access regarding outlook mails folders using graph api and client secret.",
+                        "time_spent": 1.0
+                    },
+                    {
+                        "task_name": "UTI Usecase",
+                        "description": "Implemented usecase in form of power automate solutions with subflow approach for reducing time complexity of flow.",
+                        "time_spent": 6.5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 02/08/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "02-08-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Stand Up Call",
+                        "description": "Discussion on progress of flow development and testing",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Usecase flow",
+                        "description": "Implementing usecase flow in modular approach with power automate solutions.",
+                        "time_spent": 7.6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 01/08/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "01/08/24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Project Task",
+                        "description": "Implemented UTI Project use case flow working on testing use case.",
+                        "time_spent": 7.8
+                    }
+                ]
+            }
+        ]
+    }
+]

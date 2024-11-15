@@ -1,0 +1,474 @@
+[
+    {
+        "subject": "Status Update | 30/10/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "30-10-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Kubernetes Task",
+                        "description": "Performing Load Testing on kubernetes cluster and monitor all nodes",
+                        "time_spent": 4.0
+                    },
+                    {
+                        "task_name": "DSV Task",
+                        "description": "Working on bot enchancement",
+                        "time_spent": 4.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 29/10/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "29-10-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Kubernates Task",
+                        "description": "Created containers which accepts cmd line argsCreated File Storage and explored all file system in azure.Deployed containers on azure kubernates cluster.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 28/10/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "28-10-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "DSV Task",
+                        "description": "Modified DSV process with additional enchantments",
+                        "time_spent": 1.0
+                    },
+                    {
+                        "task_name": "Kubernetes Task",
+                        "description": "Created a cluster, deployed container images, and tested on Azure Kubernetes Services. Currently researching Docker images with CLI arguments.",
+                        "time_spent": 7.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 25/10/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "25-10-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "DSV Task",
+                        "description": "Implemented Sample Bot in uipath for excel activities",
+                        "time_spent": 7.0
+                    },
+                    {
+                        "task_name": "Kubernetes Task",
+                        "description": "Created Kubernetes Cluster on Microsoft Azure.",
+                        "time_spent": 1.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 24/10/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "24-10-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Kubernates Task",
+                        "description": "Research on kubernetes also explores the cloud providers which provides kubernetes service in low-cost",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 23/10/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "23-10-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "DSV Process Overview",
+                        "description": "Understanding Process thorugh meeting and implementing workflow to bypass the MFA or 2FA authentication using UiPath",
+                        "time_spent": 7.0
+                    },
+                    {
+                        "task_name": "Backend Service Task",
+                        "description": "Research on Kubernates and Docker for inter comunication and running bot in parallel manner.",
+                        "time_spent": 1.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 22/10/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "22-10-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "A360 Bot Agent Task",
+                        "description": "Working on running bot without using bot agent on windows systems",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 21/10/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "21-10-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "A360 Bot Agent Task",
+                        "description": "Working on running bot without using bot agent on windows systems",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 18/10/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "18-10-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "DSV Process Overview",
+                        "description": "Work on Outlook activities and excel activities.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 17/10/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "17-10-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "DSV Process Overview",
+                        "description": "Understanding Process and Revising the Uipath activities and framework's",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 16/10/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "16-10-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Uiapth Orchestrator Installation",
+                        "description": "Setup Domain and ssl certificate for installation uipath orchestrator",
+                        "time_spent": 3.6
+                    },
+                    {
+                        "task_name": "DSV Internal Call",
+                        "description": "Heads Up Call for DSV.",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Research",
+                        "description": "Research on excel api for getting data in key-value pairs",
+                        "time_spent": 4.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 15/10/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "15-10-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Task",
+                        "description": "Research on Microsoft Graph Api to fix excel issue.",
+                        "time_spent": 2.0
+                    },
+                    {
+                        "task_name": "Headless Automation",
+                        "description": "Completed ACME work item 1 using FlaUi .net and Playwright",
+                        "time_spent": 6.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Automatic reply: Status Update | 14/10/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Status Update | 14/10/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "14-10-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Headless Automation with FlaUi .Net and Playwright.",
+                        "description": "Implementing ACME work Item 1 using FlaUI and Playwright .NetCompleted 70%",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 11/10/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "11-10-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Happy Hour",
+                        "description": "NA",
+                        "time_spent": 1.0
+                    },
+                    {
+                        "task_name": "UiPath Orchestrator Installation",
+                        "description": "Installing UiPath Orchestrator on On-Premises",
+                        "time_spent": 7.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 10/10/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "10-10-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Research on Headless Automation",
+                        "description": "Implementing ACME work item 1.Researching on win-app-driver and rpaframework.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 09/10/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "09-10-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Research on Headless Automation",
+                        "description": "Implemented ACME work Item 3 and Implementing ACME work item 1 using A360+Playwright",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Re: Status Update | 08/10/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Status Update | 08/10/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "08-10-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Research on Headless Automation",
+                        "description": "Implementing complex RPA and Browser automation task using playwright frameworkToday's Task: ACME work item 1 (Headless Mode).",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Re: Status Update | 07/10/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Status Update | 07/10/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "07-10-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Research on Headless Automation",
+                        "description": "Researched the integration of Playwright with Docker and the parallel execution of bots on Docker using Playwright. Implemented and successfully tested multiple instances of the RPA Challenge task on a single Docker container.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 04/10/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "04-10-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Research on Headless Automation",
+                        "description": "Researched on Robot-Framework and also implemented rpa challenge using playwright framework with headless method.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 03/10/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "03-10-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Research on Headless Automation",
+                        "description": "Researched on various testing and automation framework which supports headless automation with parallel execution.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 01/10/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "01-10-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Xalta Products Requirement analysis",
+                        "description": "Developed Register and login api using node js for errors identifications also used prisma database orm.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    }
+]

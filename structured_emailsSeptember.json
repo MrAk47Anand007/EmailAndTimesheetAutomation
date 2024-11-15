@@ -1,0 +1,371 @@
+[
+    {
+        "subject": "Status Update | 30/09/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "30-09-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Xalta Products Requirement analysis",
+                        "description": "Gathering all technologies which is required for product development and Learning System design basics.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Re: Status Update | 27/09/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Status Update | 27/09/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "27-09-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Email Automation Script",
+                        "description": "Working on Email Automation python script.",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "SoC Task",
+                        "description": "Working on SoC Task",
+                        "time_spent": 5.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Re: Status Update | 26/09/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Re: Status Update | 25/09/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Status Update | 26/09/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "26-09-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Email Automation Script",
+                        "description": "Working on automating daily status email using python script",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "Schedule Manager Task",
+                        "description": "Working on Database design.",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "SoC Task",
+                        "description": "Work on SoC Task",
+                        "time_spent": 2.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 25/09/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "25-09-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Seating Arrangement Script",
+                        "description": "Completed Script with more complex logic to creates more shuffling between groups",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Re: Status Update | 24/09/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Status Update | 24/09/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "24-09-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Seat Arrangement Script",
+                        "description": "Created and tested seat arrangement python script for shuffling seats",
+                        "time_spent": 4.0
+                    },
+                    {
+                        "task_name": "UiPath Orchestrator Installation",
+                        "description": "Working on uipath insatllation on on-premises server.",
+                        "time_spent": 4.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Re: Status Update | 23/09/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Status Update | 23/09/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "23-09-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UiPath Installation",
+                        "description": "working on uipath orchestrator installation.",
+                        "time_spent": 6.0
+                    },
+                    {
+                        "task_name": "Python Script",
+                        "description": "working on room shuffling script.",
+                        "time_spent": 2.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Re: Status Update | 20/09/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Status Update | 20/09/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "20-09-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Schedule Manager Task",
+                        "description": "Learning ngnix for load balancing and caching.",
+                        "time_spent": 4.0
+                    },
+                    {
+                        "task_name": "UiPath Orchestrator On- premises Installation",
+                        "description": "Installing and configuring UiPath Orchestrator on on-premises server.",
+                        "time_spent": 4.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Re: Status Update | 19/09/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Status Update | 19/09/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "19-09-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Schedule Manager Task",
+                        "description": "Research on A360 Api's and Working on System Design.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Re: Status Update | 18/09/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Re: Status Update | 17/09/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Re: Status Update | 16/09/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Status Update | 18/09/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "18-09-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "SoC Task",
+                        "description": "Work on SoC Task Completed 100%",
+                        "time_spent": 7.0
+                    },
+                    {
+                        "task_name": "UiPath and A360 Task",
+                        "description": "Compare A360 and UiPath for google sheet actions.",
+                        "time_spent": 1.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 17/09/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "17-09-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UiPath and A360 Task",
+                        "description": "Compare A360 and UiPath for google sheet actions.",
+                        "time_spent": 5.0
+                    },
+                    {
+                        "task_name": "SoC Task",
+                        "description": "Working on SoC task",
+                        "time_spent": 3.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 16/09/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "16-09-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "SoC Task",
+                        "description": "Working on SoC task",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 13/09/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "13-09-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Schedule Manager Task",
+                        "description": "Automated Circle Ci Configuration using javascript.Research on Circle Ci Schedule Api's and Github Api's",
+                        "time_spent": 6.0
+                    },
+                    {
+                        "task_name": "UiPath Task",
+                        "description": "Work on Uipath best practices and legecy application captures.",
+                        "time_spent": 2.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Re: Status Update | 12/09/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Status Update | 12/09/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "12-09-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Schedule Manager Task",
+                        "description": "Automating Circle Ci Configuration using javascript.Research on Circle Ci Schedule Api's and Github Api's",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 11/09/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "11-09-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Schedule Manager Task",
+                        "description": "Automating Circle Ci Configuration using javascript.Research on Circle Ci Schedule Api's.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "subject": "Status Update | 13/11/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "13-11-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Email and Timesheet Automation Task",
+                        "description": "Created system design for task and started with development.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 12/11/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "12-11-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "A360 Task",
+                        "description": "Research and explored AI Agent Studio in Control Room; developed bots for testing capabilities.",
+                        "time_spent": 6.0
+                    },
+                    {
+                        "task_name": "Kubernetes Task",
+                        "description": "Exploring Azure Automation runbooks and Python scripts for automating resource allocations.",
+                        "time_spent": 2.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 11/11/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "11-11-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "DSV Task",
+                        "description": "UiPath Studio installation on server and testing of roles and permissions on server.",
+                        "time_spent": 5.0
+                    },
+                    {
+                        "task_name": "Kubernetes Task",
+                        "description": "Performed load testing on Kubernetes cluster and working on Python script to create automated deployments in AKS.",
+                        "time_spent": 3.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 08/11/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "08-11-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "DSV Task",
+                        "description": "UiPath on-prem installation of Orchestrator.",
+                        "time_spent": 2.0
+                    },
+                    {
+                        "task_name": "Kubernetes Task",
+                        "description": "Performed load testing on Kubernetes cluster and capturing all metrics; also exploring Helm charts and automation runbooks in Azure.",
+                        "time_spent": 6.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 07/11/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "07-11-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "DSV Task",
+                        "description": "UiPath on-prem installation of Orchestrator and SSL certificate setup and installation.",
+                        "time_spent": 2.0
+                    },
+                    {
+                        "task_name": "Kubernetes Task",
+                        "description": "Exploring Autoscaling nodes configuration in Azure Kubernetes, perform load testing to check nodes autoscaling, and explore types of auto scaler in Azure Kubernetes Services.",
+                        "time_spent": 6.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 06/11/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "06-11-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "DSV Task",
+                        "description": "UiPath on-prem installation of Orchestrator",
+                        "time_spent": 4.0
+                    },
+                    {
+                        "task_name": "Kubernetes Task",
+                        "description": "Exploring Autoscaling nodes configuration in Azure Kubernetes.",
+                        "time_spent": 1.5
+                    },
+                    {
+                        "task_name": "Town Hall Meeting",
+                        "description": "NA",
+                        "time_spent": 1.5
+                    }
+                ]
+            }
+        ]
+    }
+    ,
+    {
+        "subject": "Status Update | 05/11/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "05-11-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "DSV Task",
+                        "description": "Completed Sample Flow enhancement and Implementation and work on client pc access",
+                        "time_spent": 7.0
+                    },
+                    {
+                        "task_name": "Kubernetes Task",
+                        "description": "Exploring Services Mesh in Azure Kubernetes.",
+                        "time_spent": 1.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 04/11/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "04-11-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "DSV  Task",
+                        "description": "Working on DSV Flow enhancement.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    }
+]

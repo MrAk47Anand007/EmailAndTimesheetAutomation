@@ -1,0 +1,368 @@
+[
+    {
+        "subject": "Status Update | 30/04/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "30-04-24",
+                "tasks": [
+                    {
+                        "task_name": "UiPath Training",
+                        "description": "Discussed about external packages adding in orchestrator and use in UiPath Studio",
+                        "time_spent": 1.0
+                    },
+                    {
+                        "task_name": "Generate Yearly Report",
+                        "description": "Added more flexibilty and best practices.",
+                        "time_spent": 3.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 29/04/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "29-04-24",
+                "tasks": [
+                    {
+                        "task_name": "ACME Work Item 3",
+                        "description": "Completed Use case using document pre processing and RE Framework",
+                        "time_spent": 4.0
+                    },
+                    {
+                        "task_name": "Ui Path Training",
+                        "description": "Completed RE Framework Modules",
+                        "time_spent": 4.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 26/04/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "26-04-24",
+                "tasks": [
+                    {
+                        "task_name": "ACME Year Report Task Work Item 4",
+                        "description": "Completed with best practices",
+                        "time_spent": 5.0
+                    },
+                    {
+                        "task_name": "ACME Work Item 3",
+                        "description": "Implementing with Document Pre Processing in UiPath 50% completed",
+                        "time_spent": 2.0
+                    },
+                    {
+                        "task_name": "UiPath Training course",
+                        "description": "Completed Practice module of REFramework with 100% grades in 2 use cases",
+                        "time_spent": 1.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 25/04/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "25-04-24",
+                "tasks": [
+                    {
+                        "task_name": "REFrameworkTasks",
+                        "description": "Completed ACME Genreate Security HashImplementing ACME Genrating yearly report task 60% completedCompleted Practice session of UiPath training session for 1 module.Remaining with 2 module in REFramework.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 24/04/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "24-04-24",
+                "tasks": [
+                    {
+                        "task_name": "REFramework Implementation",
+                        "description": "Implemented ACME Work Item 1 in REFramework done with best practices",
+                        "time_spent": 6.0
+                    },
+                    {
+                        "task_name": "REFramework Overview",
+                        "description": "Learned and read documentation about REFramework.",
+                        "time_spent": 2.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 23/04/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "23-04-24",
+                "tasks": [
+                    {
+                        "task_name": "UiPath Training",
+                        "description": "Discuss about REFramework and its all details like config file, assets, workflow, etc",
+                        "time_spent": 1.0
+                    },
+                    {
+                        "task_name": "State Machine Task.",
+                        "description": "Completed Basic State Machine Task like guess numbers.",
+                        "time_spent": 1.0
+                    },
+                    {
+                        "task_name": "REFramework Task.",
+                        "description": "Pursuning ACME Work Item 1 using RE framework and completed course upto REFramework",
+                        "time_spent": 5.0
+                    },
+                    {
+                        "task_name": "ACME Task Work Item 1",
+                        "description": "Completed task remaining with best practices",
+                        "time_spent": 1.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 22/04/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "20-04-24",
+                "tasks": [
+                    {
+                        "task_name": "UiPath Training and College Practicals Excecution",
+                        "description": "Completed remaining part of UiPath training and College practicals practice.",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "22-04-24",
+                        "description": "UiPath Training",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "ACME Work Item 1",
+                        "description": "Completed the use case remaining with error handling best practices",
+                        "time_spent": 6.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 19/04/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "19-04-24",
+                "tasks": [
+                    {
+                        "task_name": "UiPath Course",
+                        "description": "Completed Module 1-Automation Explorer and Module 2-Automation Developer AssociateRemaining with state machines module",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 18/04/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "18-04-24",
+                "tasks": [
+                    {
+                        "task_name": "UiPath Training",
+                        "description": "Learned orchestrator and object reposititory",
+                        "time_spent": 1.5
+                    },
+                    {
+                        "task_name": "Storage Bucket Task",
+                        "description": "completed task with best practices",
+                        "time_spent": 1.5
+                    },
+                    {
+                        "task_name": "Publish Library Task",
+                        "description": "completed task with best practices",
+                        "time_spent": 2.0
+                    },
+                    {
+                        "task_name": "UiPath Course",
+                        "description": "Remaining with 4 modules",
+                        "time_spent": 3.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 17/04/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "17-04-24",
+                "tasks": [
+                    {
+                        "task_name": "Amazon Task",
+                        "description": "Completed assignment with best practices",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 16/04/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "16-04-24",
+                "tasks": [
+                    {
+                        "task_name": "UiPath Training",
+                        "description": "Summary of perivious meeting and learned about descriptor and selector.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 15/04/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "13-04-24",
+                "tasks": [
+                    {
+                        "task_name": "UiPath Course",
+                        "description": "Completed  modules of automation explorer",
+                        "time_spent": 4.0
+                    },
+                    {
+                        "task_name": "15-04-24",
+                        "description": "UiPath Training",
+                        "time_spent": 0.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 12/04/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "11-04-24",
+                "tasks": [
+                    {
+                        "task_name": "MuleSoft Training and Exam",
+                        "description": "Completed with training and got certified mulesoft level 1 developer.",
+                        "time_spent": 8.0
+                    },
+                    {
+                        "task_name": "12-04-24",
+                        "description": "UiPath Training",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "UiPath Tasks",
+                        "description": "Completed tasks:Github IntegrationAmazon Data Extraction.Research Documentation.",
+                        "time_spent": 5.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 10/04/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "10-04-24",
+                "tasks": [
+                    {
+                        "task_name": "MuleSoft Training",
+                        "description": "Training Completed.",
+                        "time_spent": 5.0
+                    },
+                    {
+                        "task_name": "10-04-24",
+                        "description": "MuleSoft Training",
+                        "time_spent": 0.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 08/04/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Status Update | 05/04/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Status Update | 04/04/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "04-04-24",
+                "tasks": [
+                    {
+                        "task_name": "MuleSoft Training",
+                        "description": "Completed 4 Modules in Part 2 - Building Mule applications with Anypoint Studio",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 03/04/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "03-04-24",
+                "tasks": [
+                    {
+                        "task_name": "Mulesoft Training",
+                        "description": "Training Part 2:3 modules Completedand Learn Dataweave Basics.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 02/04/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Fw: Status Update | 01/04/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Status Update | 01/04/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "30-03-24",
+                "tasks": [
+                    {
+                        "task_name": "MuleSoft Training",
+                        "description": "Completed module 1.2 Introducing Anypoint Platform",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "31-03-24",
+                        "description": "MuleSoft Training",
+                        "time_spent": 0.0
+                    },
+                    {
+                        "task_name": "01-04-24",
+                        "description": "MuleSoft Training",
+                        "time_spent": 0.0
+                    }
+                ]
+            }
+        ]
+    }
+]

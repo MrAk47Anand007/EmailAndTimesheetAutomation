@@ -1,0 +1,591 @@
+[
+    {
+        "subject": "Status Update | 31/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "31-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Stand-Up Call UTI",
+                        "description": "Discussion on UTI usecase progress.",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Usecase Task",
+                        "description": "Implemented usecase flow with more dynamic approach",
+                        "time_spent": 7.6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 30/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "30-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Usecase flow",
+                        "description": "Implemented Project usecase flow Completed 90%.",
+                        "time_spent": 7.8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 29/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "29-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Scheduling Bot Task",
+                        "description": "Quick Meeting with Omkar",
+                        "time_spent": 0.8
+                    },
+                    {
+                        "task_name": "UTI Project Task",
+                        "description": "Developed UTI Usecase flow for project completed 70%",
+                        "time_spent": 6.5
+                    },
+                    {
+                        "task_name": "UTI Recurring Call",
+                        "description": "UTI Weekly Discussion Call",
+                        "time_spent": 0.5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 27/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "27-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Quick Connect with Omkar",
+                        "description": "Discussion on scheduling bot task",
+                        "time_spent": 1.5
+                    },
+                    {
+                        "task_name": "Scheduling Bot Task",
+                        "description": "Research on filter api and bot label and bot description for scheduling bot implemented architecture diagram with proper improvements also created api flow's  diagram , use case diagram for scheduling bot task.",
+                        "time_spent": 6.5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 25/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "25-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Quick Connect with Omkar",
+                        "description": "Discussion onScheduling Bot Task.",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "Scheduling Bot Task",
+                        "description": "Tested  control room api's and aari api's for schedule bot data retrive process.work on api flow diagram.",
+                        "time_spent": 5.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 24/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "24-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "Quick Meeting with Omkar for Scheduling Bot Task",
+                        "description": "Discussion on task and give improvements in architecture diagram.",
+                        "time_spent": 1.5
+                    },
+                    {
+                        "task_name": "Scheduling Bot Task",
+                        "description": "Find outs schedule, request list, historical, In Progress, api's for task also research on aari form working for task.",
+                        "time_spent": 6.5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 23/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "23-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "A360 Log to File Extension",
+                        "description": "Completed with all conditions and reviwed by Lohith",
+                        "time_spent": 2.0
+                    },
+                    {
+                        "task_name": "Scheduling Bot Task",
+                        "description": "Quick Meeting with Omkar.",
+                        "time_spent": 1.5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 22/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "22-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "A360 Log to File Extension",
+                        "description": "Research and developed google chrome extension for fixing issue of log to file line number.",
+                        "time_spent": 7.5
+                    },
+                    {
+                        "task_name": "UTI Cadence Call",
+                        "description": "UTI reccuring call with client for Application user access.",
+                        "time_spent": 0.5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 19/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "19-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "A360 Common Bot Documentation",
+                        "description": "Created proper documentation added all approachs with steps.",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "UTI Project Task",
+                        "description": "Improved flow diagram for UTI project task",
+                        "time_spent": 1.0
+                    },
+                    {
+                        "task_name": "UTI Project Connect",
+                        "description": "Discussion on improvements in PDD documents and flow diagram.",
+                        "time_spent": 1.0
+                    },
+                    {
+                        "task_name": "A360 Log to File",
+                        "description": "Research on Bot assitant extension and find outs api which can helps to create chrome extension for log to file number line issue",
+                        "time_spent": 3.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 18/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "18-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "A360 Common Bot",
+                        "description": "Completed the Send Email common bot with the authorization code and refresh token approach, including all required conditions (e.g., sending emails with or without attachments). Now working on documenting all API information in one Word file.",
+                        "time_spent": 6.0
+                    },
+                    {
+                        "task_name": "A360 Log to file",
+                        "description": "Research on the log-to-file line number issue and found a Google Chrome extension that can fix it. The extension needs some modifications to work properly",
+                        "time_spent": 2.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 17/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "17-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "A360 Common Bot",
+                        "description": "Completed send email common bot with refresh token appraoch and added attachments features in bot. Research on attachment upload api for gmail. Completed 90%Remaining with multiple attachment options.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 16/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "16-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "A360 Common Bot",
+                        "description": "Completed the Send Email Common bot with the authorization code approach. Also added base64 encoding and decoding using packages and used VBScript for encoding and decoding strings and this bot is  reviewed by Omkar.",
+                        "time_spent": 8.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 15/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "15-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "A360 Common Bot",
+                        "description": "Implementing Send Email Common bot, work on base64 encoding bot for email send actions.work on javascript base 64 function error.Completed 80%",
+                        "time_spent": 6.0
+                    },
+                    {
+                        "task_name": "UTI Project Task",
+                        "description": "Discussion on issues on pdd and access related  queries.UTI reccuring call with client for Application user access.",
+                        "time_spent": 2.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 12/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "12-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-up call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Project Task",
+                        "description": "Work on power automate  UseCase Flow added more possible ways of conditions.Tested invoices pdf on ai builder document model takes observation find out accuracy of model.Created Document review checklist for Project.",
+                        "time_spent": 6.0
+                    },
+                    {
+                        "task_name": "A360 Common Bot",
+                        "description": "Completed Send Email Common Bot in Community Version completed 100%",
+                        "time_spent": 2.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 11/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "11-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Usecase flow",
+                        "description": "Completed Flow with all conditions based on PDD",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "UTI Project Task",
+                        "description": "Created Invoices model and trained model based on dummy invoices",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "A360 Common Bot",
+                        "description": "Created Email Common bot with Authorization code appraoch.",
+                        "time_spent": 2.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 10/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "10-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "A360 Common Bot",
+                        "description": "Research and Implemented rest api for send email using google service account.Completed 80%",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "UiPath Document Understanding",
+                        "description": "Quick Connect with Ankit and shubham for orchestrator issues.",
+                        "time_spent": 1.0
+                    },
+                    {
+                        "task_name": "UTI Quick Meeting",
+                        "description": "Discussion on Application user access and created flow for testing",
+                        "time_spent": 1.0
+                    },
+                    {
+                        "task_name": "UTI UseCase Flow",
+                        "description": "Implementating Usecase flow for practice in power automate",
+                        "time_spent": 3.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 09/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "09-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI Project Task",
+                        "description": "Work on PDD document improvements and research application user access and service accounts in Power Apps.",
+                        "time_spent": 5.0
+                    },
+                    {
+                        "task_name": "UTI Discussion Call",
+                        "description": "Quick connect with Tanvi for Project discussion.",
+                        "time_spent": 3.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 08/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "08-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "A360 Common Bot",
+                        "description": "Completed Email Common bot implementation in A360 Community version",
+                        "time_spent": 2.0
+                    },
+                    {
+                        "task_name": "UiPath Document Understanding",
+                        "description": "Research on custom model for document pre-processing, simple version and modern version of DU. Created Custom model for logisteed invoices pre-processing.",
+                        "time_spent": 6.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 05/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "05-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "UTI SDD",
+                        "description": "Work on sdd documentation designed fkowchart diagram sequence diagram",
+                        "time_spent": 3.0
+                    },
+                    {
+                        "task_name": "A360 Common Bot",
+                        "description": "Research on google apis for gmail bot and tested api on postman with send email api with attachment and without attachment.Completed 80%",
+                        "time_spent": 5.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 03/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "03-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "BMS Monitoring System",
+                        "description": "Research on AWS event bridge for custom environments and running python script.",
+                        "time_spent": 2.0
+                    },
+                    {
+                        "task_name": "A360 Email Common Bot Task",
+                        "description": "Work on Send Email common bot using rest api without consent screen",
+                        "time_spent": 2.0
+                    },
+                    {
+                        "task_name": "UTI Project Task",
+                        "description": "Work on imporivements in PDD and SDD added flow diagram and sequence diagram",
+                        "time_spent": 4.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Automatic reply: Status Update | 02/07/2024 | XT0033 | Kale Anand",
+        "tasks": []
+    },
+    {
+        "subject": "Status Update | 02/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "02-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand-Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "BMS Monitoring System",
+                        "description": "Research on power pages pricing and efficiency, scalability. Also explored aws all services for server deployment.",
+                        "time_spent": 5.0
+                    },
+                    {
+                        "task_name": "UTI Project Work",
+                        "description": "Research and improved Process analysis document and implemented flow for creating subfolders in outlook.",
+                        "time_spent": 3.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Status Update | 01/07/2024 | XT0033 | Kale Anand",
+        "tasks": [
+            {
+                "date": "01-07-24",
+                "tasks": [
+                    {
+                        "task_name": "Stand Up Call",
+                        "description": "NA",
+                        "time_spent": 0.2
+                    },
+                    {
+                        "task_name": "A360 CoPilot Research Documentation",
+                        "description": "Reserach on AARI dynamic forms try to implement dynamic forms.",
+                        "time_spent": 5.5
+                    },
+                    {
+                        "task_name": "Summarize Copilot Capabilities",
+                        "description": "Quick connect for the purpose of reviewing the task by Omkar and Tanvi.",
+                        "time_spent": 1.0
+                    },
+                    {
+                        "task_name": "BMS Monitoring System",
+                        "description": "Research on power, page capabilities, and scalability",
+                        "time_spent": 1.0
+                    },
+                    {
+                        "task_name": "UTI Connect",
+                        "description": "UTI Discussion on client call and regarding AI Build capabilities",
+                        "time_spent": 0.5
+                    },
+                    {
+                        "task_name": "UTI reccuring call",
+                        "description": "UTI updates recurring call",
+                        "time_spent": 0.5
+                    }
+                ]
+            }
+        ]
+    }
+]
